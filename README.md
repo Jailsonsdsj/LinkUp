@@ -1,6 +1,8 @@
 <p align="center">
-  <img src=".github/logo.png" alt="LinkUp Logo">
+  <img src="https://jailson-personal.s3.sa-east-1.amazonaws.com/images/codecademy-javascript/Screenshot_01.png" alt="LinkUp Logo">
 </p>
+
+
 
 > An iOS app powered by [SwiftUI](https://developer.apple.com/documentation/SwiftUI) framework to increase the relationship between groupmates, developed over [CBL framework](https://www.challengebasedlearning.org/framework/) and [LISS](https://medium.com/appledeveloperacademy-ufpe/um-espaço-seguro-para-a-aprendizagem-de-inovação-liss-26208fbb02a4)
 
