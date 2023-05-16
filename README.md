@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://jailson-personal.s3.sa-east-1.amazonaws.com/images/codecademy-javascript/Screenshot_01.png" alt="LinkUp Logo">
+  <img src=".github/logo" alt="LinkUp Logo">
 </p>
 
 
