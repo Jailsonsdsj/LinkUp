@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=".github/logo" alt="LinkUp Logo">
+  <img src=".github/logo.png" alt="LinkUp Logo">
 </p>
 
 
