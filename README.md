@@ -20,7 +20,7 @@ Firstly we were grouped into groups by our interesting areas (eg music, security
 
 Into the Investigate step, we did some *Guiding Questions* (like "How to present people to each other?" or "What encourages people to engage with a project") to extract our *Essential Question* (How can Team Management help in the execution of a project at the academy?) of the Engage step.
 
-<img align="left" width="35%" src=".github/curve.png">
+<img align="left" width="35%" src="https://jailson-personal.s3.sa-east-1.amazonaws.com/images/codecademy-javascript/Screenshot_01.png">
 
 Finally we started the definition of our stakeholders to interview with some questions like "How to keep the team engaged?" or "How to identify impostors?". To "complete" the Engage step, we defined our Challenge using some objectives that our solution can help our persona, like "To ensure the team performance" or "To eliminate process burocracy". So our Challenge definition stayed *"Create a project manager that helps in the good interpersonal relationship of the team"*.
 
